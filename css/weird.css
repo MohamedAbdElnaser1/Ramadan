@@ -1,0 +1,25 @@
+body {
+    overflow-y: scroll;
+}
+.surahs-names {
+    direction: rtl;
+    width: 100%;
+    height: 600px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.surah-name {
+    font-family: Rakkas;
+    background: #536677;
+    padding: 21px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 0 0 30px 5px rgba(0,0,0,.25);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.surahs-names a {
+    color: #eaa023;
+}

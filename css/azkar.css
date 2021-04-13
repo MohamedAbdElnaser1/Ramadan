@@ -1,0 +1,47 @@
+body {
+    overflow-y: scroll;
+}
+.azkar-elsabah, .azkar-elmasaa {
+    direction: rtl;
+}
+
+.azkar-elsabah, .azkar-elmasaa {
+    margin-top: 100px;
+}
+.azkar-mostahaba h1{
+    font-family: Rakkas;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #eaa023;
+}
+.doaa {
+        width: 70%;
+        height: 90px;
+        margin: auto;
+        background-color: #536677;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 0 30px 5px rgba(0,0,0,.25);
+        margin-bottom:20px ;
+        font-family: cairo;
+        color: #fff;
+        font-size: 13px;
+        width: 80%;
+    }
+
+.btn-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-wrapper .btn{
+        font-family: 'Reem Kufi', sans-serif;
+        font-size: 20px;
+    }
+    
+.btn-wrapper .btn a {
+        color: #fff;
+    }
