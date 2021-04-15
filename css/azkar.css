@@ -44,4 +44,18 @@ body {
     
 .btn-wrapper .btn a {
         color: #fff;
+}
+
+/* responsive */
+@media screen and (max-width: 768px) {
+    body {
+        overflow-y: hidden;
     }
+    .doaa {
+        padding: 15px;
+    }
+    .footer {
+        top: 95%;
+    }
+}
+/* end of responsive */

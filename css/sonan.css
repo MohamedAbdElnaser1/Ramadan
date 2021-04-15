@@ -29,3 +29,16 @@
     left: 50%;
     transform: translateX(-50%);
 }
+
+/* responsive */
+@media screen and (max-width: 768px) {
+    .sonan {
+        height: 400px;
+    }
+}
+@media screen and (max-width: 568px) {
+    .sonan {
+        height: 600px;
+    }
+}
+/* end of responsive */
